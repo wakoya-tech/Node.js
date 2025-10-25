@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+}
+.header h3{
+    flex: 1;
+}
+.header ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
